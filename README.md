@@ -46,12 +46,10 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 The project includes:
 
-- Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Monthly Sales Analysis
 - Sales Trend Analysis
 - Product Category Analysis
-- Brand Performance Analysis
 - State-wise Sales Analysis
 - Sales Visualizations
 - Business Recommendations
@@ -87,7 +85,6 @@ Since sales peak during certain months such as May, Amazon should prepare invent
 
 ## 📌 Project Highlights
 
-✔ Data Cleaning
 
 ✔ Exploratory Data Analysis
 
