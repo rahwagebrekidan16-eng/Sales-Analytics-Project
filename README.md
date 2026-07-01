@@ -10,9 +10,8 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 ## 🎯 Project Objectives
 
-- Clean and prepare sales data for analysis.
 - Analyze monthly and yearly sales performance.
-- Identify top-performing product categories and brands.
+- Identify top-performing product and categories.
 - Evaluate sales performance across different states.
 - Discover sales trends and seasonal patterns.
 - Develop an interactive Excel dashboard.
