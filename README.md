@@ -38,7 +38,6 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 - `Mini_Project_final.ipynb` – Python analysis notebook
 - `Sales_Dashboard.xlsx` – Interactive Excel dashboard
-- `Sales_Data.csv` – Dataset used for analysis
 - `README.md` – Project documentation
 
 ---
